@@ -105,7 +105,7 @@ Me chamo Rodolfo Yoshimitsu Tanaka, tenho 33 anos e sou natural do Paraná. Form
 ###  Estatísticas
 
 <img 
-      src="https://github-readme-stats.vercel.app/api?username=yoshimitsut&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=yoshimitsut&theme=onedark&include_all_commits=true&locale=pt-br" 
   />
 <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshimitsut&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
