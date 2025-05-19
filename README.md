@@ -102,6 +102,8 @@ Me chamo Rodolfo Yoshimitsu Tanaka, tenho 33 anos e sou natural do Paraná. Form
 <br/>
 <br/>
 
+---
+
 ###  Estatísticas
 
 <img 
