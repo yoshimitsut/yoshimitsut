@@ -1,4 +1,4 @@
-## Rodolfo Y. Tanaka
+## Rodolfo Yoshimitsu Tanaka
 
 **`Desenvolvedor FullStack`**
 
